@@ -1,7 +1,7 @@
 # CartPoleNEAT
 Open AI 'CartPole-v0' with NEAT in Python
 
-Based on NEAT-Python library example and this <a href ="https://www.youtube.com/watch?v=MMxFDaIOHsE">video.</a>.
+Based on NEAT-Python library example and this <a href ="https://www.youtube.com/watch?v=MMxFDaIOHsE">video</a>.
 
 # CartPoleNEAT
 <a href ="https://youtu.be/9zRzlBIADj8">Video about this project</a>
