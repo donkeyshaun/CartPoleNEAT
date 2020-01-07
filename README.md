@@ -3,7 +3,7 @@ Open AI 'CartPole-v0' with NEAT in Python
 
 Based on NEAT-Python library example and this <a href ="https://www.youtube.com/watch?v=MMxFDaIOHsE">video</a>.
 
-# CartPoleNEAT
+# Video
 <a href ="https://youtu.be/9zRzlBIADj8">Video about this project</a>
 # Usefull links
 <a href ="https://neat-python.readthedocs.io/en/latest/neat_overview.html#neat-overview-label
